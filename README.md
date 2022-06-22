@@ -1,2 +1,4 @@
 # benchmark-proj
- Compare the performance of custom and native Java implementations of a concurrent hash table using JMH for benchmarking.
+ Fall 2022
+ 
+~ waiting for Oswego CS servers to start working again to add graphs of results ~
